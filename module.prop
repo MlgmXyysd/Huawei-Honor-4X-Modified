@@ -1,0 +1,7 @@
+id=cherrykmod
+name=Huawei Honor 4X Modified Module
+version=v1
+versionCode=1
+author=MlgmXyysd
+description=Add multiple functions to system systemlessly. This version only support hi6210sft (HiSilicon Kirin 620) chips and EMUI 4.0 based ROM. QQ chat group 855219808.
+minMagisk=17000

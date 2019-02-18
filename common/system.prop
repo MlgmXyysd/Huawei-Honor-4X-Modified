@@ -1,0 +1,14 @@
+ro.config.ksm=true
+ro.config.low_ram=true
+persist.sys.force_highendgfx=true
+ro.huawei.multiwindow=true
+ro.config.hw_support_clone_app=true
+ro.config.hw_eyes_protection=7
+qemu.hw.mainkeys=0
+ro.config.hw_navigationbar=true
+ro.config.fp_navigation=true
+ro.config.vc_call_vol_steps=20
+ro.config.vc_call_vol_default=18
+fw.show_multiuserui=1
+fw.max_users=8
+ro.config.hw_glovemode_enabled=1
